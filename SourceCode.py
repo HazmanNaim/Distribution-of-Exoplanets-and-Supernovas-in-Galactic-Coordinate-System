@@ -78,6 +78,3 @@ fig.show()
 
 mpl.tight_layout()
 mpl.savefig('DistributionSnEx.png', dpi=1000)
-
-mpl.tight_layout()
-mpl.savefig('DistributionSnExMalay.png', dpi=1000)
